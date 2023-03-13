@@ -1,0 +1,26 @@
+@media only screen and (max-width: 768px) {
+  .filterBox {
+    width: 100% !important;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+.chipBackground {
+  background-color: white;
+  /* padding-left: 10px; */
+  /* padding-right: 10px; */
+  padding: 5px 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 15px;
+  font-weight: bold;
+  color: grey;
+}
+
+.sort {
+  padding: 0 !important;
+  color: grey !important;
+  background-color: white !important;
+  margin-top: 5px;
+}
